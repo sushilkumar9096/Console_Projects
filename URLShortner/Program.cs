@@ -1,6 +1,4 @@
-﻿using System.Transactions;
-
-Dictionary<string, string> urld = new Dictionary<string, string>();
+﻿Dictionary<string, string> urld = new Dictionary<string, string>();
 while (true)
 {
     Console.WriteLine("\n1.UrlShorten. \n2.Get Original Url \n3.Exit");
