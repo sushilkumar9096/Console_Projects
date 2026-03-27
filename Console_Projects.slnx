@@ -1,6 +1,9 @@
 <Solution>
+  <Project Path="ConsoleApp1/UnitConvertor.csproj" Id="40303eea-18a9-412a-b01d-517f1f89a423" />
   <Project Path="Email_Sender/Email_Sender.csproj" Id="85b942c7-1f23-4560-87d4-f81a617ebe76" />
+  <Project Path="FileDuplicationTool/FileDuplicationTool.csproj" Id="c6ecc4b6-35f9-414e-abc3-78b844495ea7" />
   <Project Path="File_Reader_Writer/File_Reader_Writer.csproj" Id="ce10ce9a-2d70-43d5-87d9-64e980177d3b" />
+  <Project Path="PalindromChecker/PalindromChecker.csproj" Id="65bfdbb6-0912-4335-8b56-0d9051f29c0d" />
   <Project Path="URLShortner/URLShortner.csproj" />
   <Project Path="Zip_UnZip_Folder/Zip_UnZip_Folder.csproj" Id="e421cd95-76ea-4988-aa06-71e08bcceeb5" />
 </Solution>
